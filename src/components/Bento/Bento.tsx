@@ -31,7 +31,7 @@ export default function Bento() {
   return (
     <section
       className={`
-        w-full max-w-[1400px] grid grid-cols-10 auto-rows-[20rem] gap-4 mx-auto px-20 
+        w-full max-w-[1400px] grid grid-cols-1 md:grid-cols-10 auto-rows-[20rem] gap-4 mx-auto px-10 md:px-20 
         `}
     >
       {Items.map((item) => (
