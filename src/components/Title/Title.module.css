@@ -1,0 +1,15 @@
+.title{
+    font-size: 5rem;
+    font-weight: 700;
+    color: rgb(219, 232, 233);
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    letter-spacing: 0.5em;
+    transition: all 1.0s ease-in-out;
+}
+
+.title:hover{
+    color: rgb(219, 232, 233);
+}
